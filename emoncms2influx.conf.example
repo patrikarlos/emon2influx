@@ -1,0 +1,8 @@
+#emonpi key.
+$apireadkey='bcljj2i9f2j0f2fadsfd528bcf914759af63a253';
+$INFLUXHOST='localhost';
+$INFLUXPORT=8086;
+$INFLUXDB='myDatabase';
+$INFLUXUSER='myUser';
+$INFLUXPASSWD='myPasswd';
+$INFLUXMEAS='myMeas';
